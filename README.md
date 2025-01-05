@@ -4,6 +4,10 @@
 
 In this project, An AI-powered system is built that intelligently queries and extracts answers from PDF documents. By leveraging tools like LangChain, FAISS, and OpenAI, we transformed raw text into searchable data, enabling the automatic retrieval of relevant information. This project serves as a practical introduction to using AI for document analysis, demonstrating how to automate the process of finding answers within large PDF files efficiently and effectively.
 
+## Architecture
+
+<img width="860" alt="image" src="https://github.com/user-attachments/assets/38693437-d388-49bf-8336-44c979fd3d03" />
+
 ## Front-end Interface
 
 AI-powered PDF Query System in Action: Below image showcases the front-end interface where users can input queries and retrieve relevant answers from PDF documents.
