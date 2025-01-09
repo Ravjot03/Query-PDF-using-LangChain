@@ -16,4 +16,4 @@ AI-powered PDF Query System in Action: Below image showcases the front-end inter
 
 ## Medium Blog
 
-Check out the article here - https://medium.com/p/597422853e81
+Check out the article here - [Article](https://medium.com/p/597422853e81)
